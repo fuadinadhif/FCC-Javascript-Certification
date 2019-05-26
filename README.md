@@ -1,5 +1,4 @@
-# JavaScript Algorithms and Data Structures project challenges 
-to get JavaScript certification from FreeCodeCamp.org
+# JavaScript Algorithms and Data Structures project challenges to get JavaScript certification from FreeCodeCamp.org
 
 ## Palindrome Checker
 A palindrome is a word or sentence that's spelled the same way both forward and backward, 
