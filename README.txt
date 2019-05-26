@@ -1,4 +1,6 @@
-# JavaScript Algorithms and Data Structures project challenges 
+# Project Title
+
+#JavaScript Algorithms and Data Structures project challenges 
 to get JavaScript certification from FreeCodeCamp.org
 
 ## Palindrome Checker
